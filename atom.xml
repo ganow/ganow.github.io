@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://ganow.org/atom.xml" rel="self"/>
-  <link href="http://ganow.org/"/>
-  <updated>2013-12-17T16:06:14+09:00</updated>
-  <id>http://ganow.org/</id>
+  <link href="http://blog.ganow.org/atom.xml" rel="self"/>
+  <link href="http://blog.ganow.org/"/>
+  <updated>2013-12-17T16:08:54+09:00</updated>
+  <id>http://blog.ganow.org/</id>
   <author>
     <name><![CDATA[Yoshihiro Nagano]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[サンプル]]></title>
-    <link href="http://ganow.org/blog/2013/12/17/sample/"/>
+    <link href="http://blog.ganow.org/blog/2013/12/17/sample/"/>
     <updated>2013-12-17T15:35:02+09:00</updated>
-    <id>http://ganow.org/blog/2013/12/17/sample</id>
+    <id>http://blog.ganow.org/blog/2013/12/17/sample</id>
     <content type="html"><![CDATA[<p>サンプルブログです</p>
 
 <p>サンプルブログです</p>

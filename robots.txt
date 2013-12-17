@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://ganow.org/sitemap.xml 
+Sitemap: http://blog.ganow.org/sitemap.xml 
